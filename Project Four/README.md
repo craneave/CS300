@@ -1,3 +1,3 @@
-This project serves as an extension to project two. In this project we can now add, remove, and move decorations on the background.
-This extension also added the feature to allow fish to move via the user input. Meaning the using can add, and move fish to wherever they wish, and then can also tell them to swim, and they will swim from one side of the screen to the other, regardless of where they are placed.
-This program again dealt with using different classes to create new objects. For example using the decorations class to create a new object wwithin the fishtank class when the user wished to create a decoration
+This project serves as an extension to Project Two. In this project, we can now add, remove, and move decorations on the background.
+This extension also added the feature to allow fish to move via the user input. Meaning the user can add, and move fish to wherever they wish, and then can also tell them to swim, and they will swim from one side of the screen to the other, regardless of where they are placed.
+This program again dealt with using different classes to create new objects. For example, using the decorations class to create a new object within the fishtank class when the user wished to create a decoration
